@@ -1,5 +1,4 @@
-import java.io.*;
-	import java.util.scanner;
+import java.util.scanner;
 	class F
 	{
 	int i,a,fact=1;
@@ -13,4 +12,4 @@ import java.io.*;
 	}
 	}
 	
-Click here to Rep
+
