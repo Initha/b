@@ -1,5 +1,5 @@
 import java.util.scanner;
-	class F
+	class Fac
 	{
 	int i,a,fact=1;
 	Scanner in=new Scanner(System.in);
